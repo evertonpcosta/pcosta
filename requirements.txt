@@ -1,0 +1,8 @@
+graphene
+graphene-django
+graphql-core
+django==1.9
+django-filter==0.11.0
+# Additional requirements go here
+django-floppyforms>=1.1
+django-crispy-forms>=1.4.0
